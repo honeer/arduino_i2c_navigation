@@ -1,4 +1,4 @@
-# Project Name
+# Arduino I2C 128x64 OLED display navigation menu
 
 Brief description of the project.
 
@@ -15,9 +15,14 @@ Brief description of the project.
 
 Provide a more detailed overview of the project. What does it do? Why was it created? What problem does it solve? Any relevant background information.
 
-## Hardware Requirements
+## Wiring Diagram
 
-List all the hardware components required to build the project. Include links to where they can be purchased if possible.
+OLED Display
+* VCC --> VCC
+* GND --> GND
+* SCL --> 3
+* SDA --> 2
+
 
 ## Software Requirements
 
